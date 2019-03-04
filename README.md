@@ -1,1 +1,1 @@
-# twolayer_perceptron_classification
+# two_layer_perceptron_classification
